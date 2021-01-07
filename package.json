@@ -1,6 +1,6 @@
 {
   "name": "@dtjv/tsconfig",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My base Typescript config",
   "main": "tsconfig.json",
   "scripts": {
