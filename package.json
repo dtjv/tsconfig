@@ -1,6 +1,6 @@
 {
   "name": "@dtjv/tsconfig",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "My base Typescript config",
   "main": "tsconfig.json",
   "scripts": {
@@ -15,7 +15,7 @@
     "configuration"
   ],
   "engines": {
-    "node": ">=15"
+    "node": ">=12"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
   "author": "David J. Valles <davidtjvalles@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "2.2.1"
+    "prettier": "2.4.1"
   }
 }
